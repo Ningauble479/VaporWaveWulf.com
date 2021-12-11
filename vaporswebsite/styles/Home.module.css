@@ -1,0 +1,6 @@
+.container {
+  background-image: url('../images/outrun-vaporwave-hd-wallpaper-preview.jpg');
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+}
